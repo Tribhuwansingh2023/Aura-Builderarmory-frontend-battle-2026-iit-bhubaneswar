@@ -5,6 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  base: '/Aura-Builderarmory-frontend-battle-2026-iit-bhubaneswar/',
   server: {
     host: "::",
     port: 8080,

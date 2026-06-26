@@ -1,8 +1,18 @@
 # Aura AI - Next-Gen Data Automation Platform
 
-Welcome to the **Aura AI** project repository, built for the **Next-Gen AI Platform Speed Run** Hackathon (Phase 1).
+## 📖 Description
+Aura AI is a premium, high-converting, responsive landing page for an advanced AI-driven data automation platform. It was built exclusively for the **FrontEnd Battle 3.0 - VibeCoding Competition (Phase 1)** organized by the Web and Design Society, IIT Bhubaneswar. This project demonstrates strict adherence to architectural integrity, engineering speed, motion choreography, and SEO hygiene under a rigid 4-hour countdown.
 
-This project is a premium, high-converting, responsive landing page for an advanced AI-driven data automation platform. It strictly adheres to architectural integrity, engineering speed, motion choreography, and SEO hygiene.
+## ℹ️ About
+This repository contains the Round 1 qualifying submission. It features a complete integration of all provided assets, dynamic matrix-driven pricing calculation, and a zero-dependency Bento-to-Accordion wrapper that seamlessly handles state context locking across fluid breakpoints.
+
+## 🔗 Links
+- **GitHub Repository:** [Tribhuwansingh2023/Aura-Builder](https://github.com/Tribhuwansingh2023/Aura-Builderarmory-frontend-battle-2026-iit-bhubaneswar)
+- **Live Deployment:** [View Live Site](https://aura-builderarmory-frontend-battle-2026-iit-bhubaneswar.vercel.app/) *(Or your custom Vercel/Netlify link)*
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Tribhuwansingh2023/Aura-Builderarmory-frontend-battle-2026-iit-bhubaneswar)
+
+---
 
 ## 🚀 Hackathon Features Implementation
 
